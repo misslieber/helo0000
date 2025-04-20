@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: center;
+    color: aliceblue;
+}
+.heading-grid {
+    display: grid;
+    place-items: center;     
+    gap: 10px;  
+    height: 59vh;         
+    background-color: #22222286;
+    text-align: center;
+  }
+  .highlight {
+    color: aliceblue;
+    font-size: 24px;
+    text-decoration: underline;
+    font-style: bold;
+  }
+  .highlight1{
+    color: aliceblue;
+    font-size: 24px;
+    text-decoration: underline;
+    font-style: bold;
+  }
+  .Rules {
+ display: grid;
+ place-items: center;
+ place-items: center;     
+background-color: #c6292981;
+ text-align: center;}
